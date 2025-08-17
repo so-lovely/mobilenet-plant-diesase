@@ -1,3 +1,3 @@
 # mobilenet-plant-diesase
 
-model3 - val 0.9
+model1 - val 0.9
